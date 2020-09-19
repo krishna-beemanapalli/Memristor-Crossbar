@@ -6,4 +6,4 @@ Modified Joglekar model
 
 == Crossbar ==
 
-3x3 crossbar simlated for read and write operations
+3x3 crossbar simulated for read and write operations
